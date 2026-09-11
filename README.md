@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="xoeris_mova" src="https://github.com/user-attachments/assets/2743e9fd-d8f1-4db1-badf-02679b4d75e0" />
+
 # MOVA
 
 **Mood Face Recognition Android App for Individuals with ADHD & Procrastination**
