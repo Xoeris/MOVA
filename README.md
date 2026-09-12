@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="xoeris_mova" src="https://github.com/user-attachments/assets/2743e9fd-d8f1-4db1-badf-02679b4d75e0" />
+<img width="1000" height="335" alt="xoeris_mova" src="https://github.com/user-attachments/assets/7e020fe6-9352-4e52-a202-03461f20cd59" />
 
 # MOVA
 
