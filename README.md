@@ -1,8 +1,16 @@
 <img width="1000" height="335" alt="xoeris_mova" src="https://github.com/user-attachments/assets/7e020fe6-9352-4e52-a202-03461f20cd59" />
 
-# MOVA
-
-**Mood Face Recognition Android App for Individuals with ADHD & Procrastination**
+<table>
+  <tr>
+    <td width="15%" align="center" style="border: none;">
+      <img width="120" height="120" alt="xoeris_mova" src="https://github.com/user-attachments/assets/9ce832d3-28c5-49de-9165-d31900dae91f" />
+    </td>
+    <td style="border: none; padding-left: 20px;">
+      <h1 style="font-size: 48px; margin: 0; border-bottom: none;">MOVA</h1>
+      <p style="font-size: 1.1em; margin: 4px 0 0 0;"><b>Mood Face Recognition Android App for Individuals with ADHD & Procrastination</b></p>
+    </td>
+  </tr>
+</table>
 
 MOVA is a native Android application that uses real-time, on-device facial expression analysis to detect a user's current mood, then delivers an adaptive visual feedback system designed to reduce task-initiation friction in individuals with ADHD. Unlike conventional productivity apps that treat procrastination as a scheduling problem, MOVA treats it as an emotional-regulation problem, grounded in peer-reviewed research on ADHD, procrastination, and affective computing.
 
