@@ -294,7 +294,7 @@ No installation, build, or clone instructions are provided, as the project is no
 - [ ] Complete Alpha testing and bug fixes
 - [ ] Finalize adaptive visual feedback system logic
 - [ ] Conduct specialist review (psychiatrist / clinical psychologist validation)
-- [ ] Beta test / market validation
+- [ ] Beta test
 - [ ] Public release
 
 ## References
