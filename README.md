@@ -6,7 +6,7 @@
 
 MOVA is a native Android application that uses real-time, on-device facial expression analysis to detect a user's current mood, then delivers an adaptive visual feedback system designed to reduce task-initiation friction in individuals with ADHD. Unlike conventional productivity apps that treat procrastination as a scheduling problem, MOVA treats it as an emotional-regulation problem, grounded in peer-reviewed research on ADHD, procrastination, and affective computing.
 
-> **Status:** Alpha Test, core mood-detection and feedback functionality is working; UI/UX and feature set are still under active refinement.
+> **Status:** Pre-Alpha Test, core mood-detection and feedback functionality is working; UI/UX and feature set are still under active refinement.
 
 ---
 
